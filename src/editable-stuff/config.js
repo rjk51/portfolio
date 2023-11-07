@@ -51,7 +51,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("https://instagram.fmaa1-4.fna.fbcdn.net/v/t51.2885-19/337872541_507075764769741_6743980969102765398_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmaa1-4.fna.fbcdn.net&_nc_cat=109&_nc_ohc=TkeYco8SzvMAX_ddBGm&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfBVWY3Y90PTo-ilGcSQ6WB0Hz-gGAz2E8ut-IgetjgBMQ&oe=654FC95F&_nc_sid=ee9879"),
+  imageLink: ("https://scontent-tir3-2.cdninstagram.com/v/t51.2885-19/337872541_507075764769741_6743980969102765398_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-tir3-2.cdninstagram.com&_nc_cat=109&_nc_ohc=TkeYco8SzvMAX9b7ZmZ&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfCHgIIhO8JmLwo8JEbtQWjukE3WR9s7uCMfF_9bsBFoiw&oe=654FC95F&_nc_sid=ee9879"),
   imageSize: 375,
   message:
     "My name is Ayaan Rajak. I’m currently pursuing my degree in computer science from SRM Institute Of Science & Technology KTR,Chennai. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
